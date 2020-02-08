@@ -4,6 +4,6 @@ namespace App\Repositories;
 
 use Illuminate\Http\Request;
 
-class ConstellationRepository extends Repository
+class PostRepository extends Repository
 {
 }
